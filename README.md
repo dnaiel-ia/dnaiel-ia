@@ -75,7 +75,7 @@ Pequeñas herramientas que ayudan a desarrollar, automatizar o simplificar proce
 ## 🌐 Conecta conmigo
 
 <p align="left">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/dnaiel-ia">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
